@@ -66,6 +66,7 @@ a{
     height: 100vh;
     padding: 60px 9% 0%;
     color: azure;
+    justify-content: space-between;
 }
 
 .home_info h1{
@@ -188,11 +189,4 @@ a{
      position: absolute;
      width: 100%;
      height: 100%;
-}
-
-.bars-animation .bar{
-    width: 100%;
-    height: 100%;
-    background: black;
-    border: 2px solid red;
 }
